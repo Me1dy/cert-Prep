@@ -2,3 +2,11 @@
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
 } 
+p 
+{
+    color: navy;
+}
+.sale {
+    font-weight: bold;
+    background-color: aqua;
+}
