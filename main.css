@@ -1,0 +1,17 @@
+body {
+    background-color: #e4b1c5
+}
+
+.heading {
+    color: #8d0909
+}
+.domains {
+    border-width: 3px;
+    border-color: #8d0909;
+    border-radius: 2px;
+    background-color: #eebfd2;
+    color:#8d0909;
+}
+.domains:hover {
+    color:#ffe7f1;
+}
