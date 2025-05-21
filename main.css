@@ -5,13 +5,13 @@ body {
 .heading {
     color: #8d0909
 }
-.domains {
+a {
     border-width: 3px;
     border-color: #8d0909;
     border-radius: 2px;
     background-color: #eebfd2;
     color:#8d0909;
 }
-.domains:hover {
+a:hover {
     color:#ffe7f1;
 }
