@@ -1,9 +1,9 @@
 body {
-    background-color: #e4b1c5
+    background-color: #e4b1c5;
 }
 
 header {
-    color: #8d0909
+    color: #8d0909;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     padding: 5px;
@@ -11,13 +11,13 @@ header {
     display:flex;
     justify-content: center;
 }
-.link {
+a {
     border-width: 3px;
     border-color: #8d0909;
     border-radius: 2px;
     background-color: #eebfd2;
     color:#8d0909;
 }
-.link:hover {
+a:hover {
     color:#ffe7f1;
 }
