@@ -29,9 +29,10 @@ a {
     background-color: #eebfd2;
     color:#8d0909;
     padding: 4px;
+    transition: height 2.5s ease;
     
 }
 a:hover {
     color:#ffe7f1;
-    flex-grow: 20px;
+    height: 100px;
 }
