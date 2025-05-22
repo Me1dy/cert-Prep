@@ -1,5 +1,5 @@
 body {
-    background-color: #e4b1c5;
+    background-color: #fca9b4;
 }
 
 header {
@@ -10,6 +10,13 @@ header {
     margin: 5px;
     display:flex;
     justify-content: center;
+    background-color:#e4b1c5
+}
+.div {
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #e4b1c5;
 }
 a {
     border-width: 3px;
