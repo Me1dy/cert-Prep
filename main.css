@@ -18,6 +18,7 @@ h1 {
 }
 .flex-container {
      display: flex;
+
     flex-direction: row;
     justify-content: center;
     background-color: #e4b1c5;
@@ -37,6 +38,7 @@ h1 {
   width: 50px;
   margin: 10px auto;
   transition: height 2.5s ease;
+  text-align: center;
     
 }
 .flex-container > div:hover {
