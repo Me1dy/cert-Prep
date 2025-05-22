@@ -32,9 +32,16 @@ a {
     color:#8d0909;
     padding: 4px;
     transition: height 2.5s ease;
+     overflow: hidden;
+     height: 20px;
+  width: 50px;
+  margin: 10px auto;
+  transition: height 2.5s ease;
     
 }
 a:hover {
     color:#ffe7f1;
     height: 100px;
+     border-color: #8d0909;
+    border-radius: 5px;
 }
