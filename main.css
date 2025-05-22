@@ -10,7 +10,10 @@ header {
     margin: 5px;
     display:flex;
     justify-content: center;
-    background-color:#e4b1c5
+    background-color:#e4b1c5;
+}
+h1 {
+    font-size: 40px;
 }
 .div {
      display: flex;
