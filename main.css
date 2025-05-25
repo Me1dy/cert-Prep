@@ -47,6 +47,13 @@ h1 {
      border-color: #8d0909;
     border-radius: 5px;
 }     
-.special:hover {
+.do4:hover {
   height: 200px;
+}
+.do3:hover {
+    height: 300px;
+}
+link > a :hover {
+    background-color: #8d0909;
+    color: #e4b1c5;
 }
