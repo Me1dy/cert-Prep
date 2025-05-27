@@ -17,6 +17,7 @@ h1 {
     font-size: 40px;
 }
 .flex-container {
+    display: flex;
     justify-content: center;
     background-color: #e4b1c5;
     padding: 5px;
@@ -29,12 +30,12 @@ h1 {
     background-color: #eebfd2;
     color:#8d0909;
     padding: 4px;
-    transition: height 2.5s ease;
+    transition: height 1.5s ease;
      overflow: hidden;
      height: 20px;
   width: 100px;
   margin: 10px auto;
-  transition: height 2.5s ease;
+  transition: height 1.5s ease;
   text-align: center;
     
 }
