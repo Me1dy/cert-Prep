@@ -15,6 +15,7 @@ header {
 }
 h1 {
     font-size: 40px;
+    text-shadow: 2px 2px 4px #000000;
 }
 a:link {
     color:#8d0909;
@@ -48,6 +49,7 @@ div > a:hover {
     text-align: center;
     justify-content: center;
     text-decoration: none;
+    box-shadow: 10px 10px 5px rgb(224, 201, 210);
 }
 
 .flex-container > div:hover {
