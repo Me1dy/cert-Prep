@@ -45,17 +45,8 @@ h1 {
     color:#ffe7f1;
      border-color: #8d0909;
     border-radius: 5px;
-    height: 200px;
+    height: 100px;
 }     
-.do4 {
-    padding: 3px;
-}
-.do4:hover {
-  height: 600px;
-}
-.do3:hover {
-    height: 300px;
-}
 .link > a :hover {
     background-color: #8d0909;
     color: #e4b1c5;
