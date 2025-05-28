@@ -1,6 +1,7 @@
 body {
     background-color: #fca9b4;
     background-image: linear-gradient(to bottom right, #f8a5bf,#dc5275, rgb(255, 127, 187));
+    background-repeat: no-repeat;
 }
 
 header {
