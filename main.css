@@ -16,6 +16,16 @@ header {
 h1 {
     font-size: 40px;
 }
+a:link {
+    color:#8d0909;
+}
+a:visited {
+    color:#854141;
+}
+div > a:hover {
+   background-color: #8d0909;
+   color:#e4b1c5;
+}
 .flex-container {
     display: flex;
     justify-content: center;
@@ -48,12 +58,7 @@ h1 {
     background-color: #8d0909;
     color: #e4b1c5;
 }
-a:link {
-    color:#8d0909;
-}
-a :visited {
-    color:#854141;
-}
+
 
 #title {
     font-size: 27px;
