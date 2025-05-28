@@ -34,7 +34,7 @@ h1 {
     padding: 4px;
     transition: height 1.5s ease;
      overflow:auto;
-     height: 20px;
+     height: 25px;
   width: 160px;
   margin: 10px auto;
  
@@ -59,4 +59,7 @@ h1 {
 link > a :hover {
     background-color: #8d0909;
     color: #e4b1c5;
+}
+#title {
+    font-size: 30px;
 }
