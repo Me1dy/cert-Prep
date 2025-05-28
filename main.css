@@ -40,8 +40,6 @@ h1 {
 }
 
 .flex-container > div:hover {
-    color:#ffe7f1;
-     border-color: #8d0909;
     border-radius: 5px;
     height: 100px;
 }     
