@@ -33,11 +33,11 @@ h1 {
     color:#8d0909;
     padding: 4px;
     transition: height 1.5s ease;
-     overflow: hidden;
+     overflow: visible;
      height: 20px;
   width: 100px;
   margin: 10px auto;
-  transition: height 1.5s ease;
+ 
   text-align: center;
     
 }
