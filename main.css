@@ -1,5 +1,6 @@
 body {
     background-color: #fca9b4;
+    background-image: linear-gradient(to bottom right, #f8a5bf,#dc5275, rgb(255, 127, 187));
 }
 
 header {
@@ -49,7 +50,7 @@ div > a:hover {
     text-align: center;
     justify-content: center;
     text-decoration: none;
-    box-shadow: 10px 10px 5px rgb(224, 201, 210);
+    box-shadow: 4px 4px 2px rgb(164, 154, 158);
 }
 
 .flex-container > div:hover {
