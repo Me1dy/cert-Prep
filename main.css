@@ -56,10 +56,10 @@ h1 {
 .do3:hover {
     height: 300px;
 }
-link > a :hover {
+.link > a :hover {
     background-color: #8d0909;
     color: #e4b1c5;
 }
 #title {
-    font-size: 26px;
+    font-size: 20px;
 }
