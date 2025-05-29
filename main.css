@@ -1,7 +1,9 @@
 body {
     background-color: #fca9b4;
-    background-image: linear-gradient(to bottom right, #f8a5bf,#dc5275, rgb(255, 127, 187));
+    background-image: linear-gradient(to bottom right, #f8a5bf,#dc5275, #ff7fbb);
     background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 header {
@@ -17,7 +19,7 @@ header {
 }
 h1 {
     font-size: 40px;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px #a49a9e;
 }
 a:link {
     color:#8d0909;
@@ -51,7 +53,7 @@ div > a:hover {
     text-align: center;
     justify-content: center;
     text-decoration: none;
-    box-shadow: 4px 4px 2px rgb(164, 154, 158);
+    box-shadow: 4px 4px 2px #a49a9e;
 }
 
 .flex-container > div:hover {
