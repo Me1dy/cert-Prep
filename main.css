@@ -78,9 +78,11 @@ div {
     font-style: normal;
     font-size: 20px;;
 }
-.domainsdiv {
-    display: flex;
+.domain1 {
+    float: right;
+    width: 45%;
 }
-.domainsdiv > div {
+.domain2 {
+    float: left;
     width: 45%;
 }
