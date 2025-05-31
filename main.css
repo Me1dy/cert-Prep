@@ -79,7 +79,7 @@ div {
     font-size: 20px;;
 }
 .domain1 {
-    width: 300px;
+    width: 500px;
     border-style: double;
     border-width: 2px;
     border-color: hotpink;
@@ -87,5 +87,6 @@ div {
 }
 .domain2 {
     float: left;
-    width: 300px;
+    width: 600px;
+    
 }
