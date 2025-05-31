@@ -97,3 +97,8 @@ div {
     border-color: hotpink;
     color:  #8d0909;
 }
+footer {
+    align-content: center;
+    position: fixed;
+    bottom: 0;
+}
