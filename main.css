@@ -79,10 +79,13 @@ div {
     font-size: 20px;;
 }
 .domain1 {
-    float: right;
-    width: 45%;
+    width: 300px;
+    border-style: double;
+    border-width: 2px;
+    border-color: hotpink;
+    color:  #8d0909;
 }
 .domain2 {
     float: left;
-    width: 45%;
+    width: 300px;
 }
