@@ -72,3 +72,15 @@ div > a:hover {
 div {
     margin: 4px;
 }
+#domains {
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;;
+}
+.domainsdiv {
+    display: flex;
+}
+.domainsdiv > div {
+    width: 45%;
+}
