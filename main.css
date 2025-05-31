@@ -81,7 +81,7 @@ div {
 .domain1 {
     width: 500px;
     border-style: double;
-    border-width: 2px;
+    border-width: 4px;
     border-color: hotpink;
     color:  #8d0909;
 }
