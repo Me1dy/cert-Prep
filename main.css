@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    color: #ffd3f7;
 }
 
 header {
@@ -60,10 +61,7 @@ div > a:hover {
     border-radius: 5px;
     height: 100px;
 }     
-.flex-container > a:hover {
-    background-color: #8d0909;
-    color: #e4b1c5;
-}
+
 
 
 #title {
@@ -87,7 +85,7 @@ div {
     border-style: double;
     border-width: 5px;
     border-color: hotpink;
-    color:  #8d0909;
+    color:  #ffd3f7;
 }
 .domain2 {
     float: left;
@@ -95,7 +93,7 @@ div {
     border-style: double;
     border-width: 5px;
     border-color: hotpink;
-    color:  #8d0909;
+    color:  #ffd3f7;
 }
 footer {
     align-content: center;
