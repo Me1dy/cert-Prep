@@ -22,10 +22,10 @@ h1 {
     text-shadow: 2px 2px 4px #a49a9e;
 }
 a:link {
-    color:#8d0909;
+    color: hotpink;
 }
 a:visited {
-    color:#854141;
+    color:#8d0909;
 }
 div > a:hover {
    background-color: #8d0909;
@@ -83,17 +83,17 @@ div {
     font-size: 20px;
 }
 .domain1 {
-    width: 400px;
+    width: 30%;
     border-style: double;
-    border-width: 4px;
+    border-width: 5px;
     border-color: hotpink;
     color:  #8d0909;
 }
 .domain2 {
     float: left;
-    width: 600px;
+    width: 70%;
     border-style: double;
-    border-width: 4px;
+    border-width: 5px;
     border-color: hotpink;
     color:  #8d0909;
 }
