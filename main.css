@@ -99,6 +99,6 @@ div {
 }
 footer {
     align-content: center;
-    position: fixed;
-    bottom: 0;
+    text-align: end;
+    position: static;
 }
