@@ -146,12 +146,10 @@ to some or all pages in a website.
 <li><u>Inline:</u> a style applied directly to an HTML tag on a webpage.</li>
 </ul>
 
-The cascading part of Cascading Style Sheets works in this manner: inline styles
-will take precedence over internal styles and internal styles will take precedence
-over external styles. For example, an inline style for a single paragraph (p) tag
-could set the color to navy. An internal style sheet could set paragraphs to
-maroon. An external style sheet could set paragraphs to gray. In this situation, all
-paragraphs except the navy one would be maroon.
+In CSS, styles "cascade" by priority: inline styles override internal styles,
+which override external styles. For example, if an inline style sets a paragraph's color to navy,
+an internal style sets it to maroon, and an external style sets it to gray, the paragraph with the
+ inline style will be navy, and the rest will be maroon.
         </p>
         </div>
         </div>

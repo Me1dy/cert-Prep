@@ -28,8 +28,8 @@ a:visited {
     color:#8d0909;
 }
 div > a:hover {
-   background-color: #8d0909;
-   color:#e4b1c5;
+   background-color: hotpink;
+   color:#eebfd2;
 }
 .flex-container {
     display: flex;
@@ -83,7 +83,7 @@ div {
     font-size: 20px;
 }
 .domain1 {
-    width: 30%;
+    width: 20%;
     border-style: double;
     border-width: 5px;
     border-color: hotpink;
@@ -91,7 +91,7 @@ div {
 }
 .domain2 {
     float: left;
-    width: 70%;
+    width: 80%;
     border-style: double;
     border-width: 5px;
     border-color: hotpink;
