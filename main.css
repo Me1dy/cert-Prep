@@ -22,6 +22,9 @@ h1 {
     font-size: 40px;
     text-shadow: 2px 2px 4px #a49a9e;
 }
+h3 {
+    color: hotpink;
+}
 a:link {
     color: hotpink;
 }
@@ -79,6 +82,7 @@ div {
     font-weight: bold;
     font-style: normal;
     font-size: 20px;
+    color: #f4449f;
 }
 .domain1 {
     width: 20%;
