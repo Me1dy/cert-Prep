@@ -23,7 +23,7 @@ h1 {
     text-shadow: 2px 2px 4px #a49a9e;
 }
 h3 {
-    color: hotpink;
+    color: #ca3d65;
 }
 a:link {
     color: hotpink;
@@ -76,6 +76,8 @@ div {
 .domain1n2 {
     display: flex;
     flex-direction: row;
+}
+.domain1n2 > div {
     padding: 2px;
 }
 #domains {
@@ -83,13 +85,13 @@ div {
     font-weight: bold;
     font-style: normal;
     font-size: 20px;
-    color: #f4449f;
+    color: #ca3d65;
 }
 .domain1 {
     width: 20%;
     border-style: double;
     border-width: 5px;
-    border-color: hotpink;
+    border-color: #ca3d65;
     color:  #ffd3f7;
 }
 .domain2 {
@@ -97,11 +99,14 @@ div {
     width: 80%;
     border-style: double;
     border-width: 5px;
-    border-color: hotpink;
+    border-color: #ca3d65;
     color:  #ffd3f7;
 }
+
+
+
 footer {
     align-content: center;
-    text-align: end;
+    text-align: center;
     position: static;
 }
