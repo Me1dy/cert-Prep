@@ -35,6 +35,9 @@ div > a:hover {
    background-color: hotpink;
    color:#eebfd2;
 }
+ul {
+    list-style-type: lower-alpha;
+}
 .flex-container {
     display: flex;
     justify-content: center;
@@ -81,10 +84,10 @@ div {
     padding: 2px;
 }
 #domains {
-    font-family: fantasy;
+    font-family: "monaco", monospace;
     font-weight: bold;
     font-style: normal;
-    font-size: 20px;
+    font-size: 25px;
     color: #ca3d65;
 }
 .domain1 {
@@ -103,7 +106,13 @@ div {
     color:  #ffd3f7;
 }
 
-
+.domain3 {
+    width: 100%;
+    border-style: double;
+    border-width: 5px;
+    border-color: #ca3d65;
+    color:  #ffd3f7;
+}
 
 footer {
     align-content: center;
