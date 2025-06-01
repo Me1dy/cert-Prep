@@ -36,7 +36,7 @@ div > a:hover {
    color:#eebfd2;
 }
 ul {
-    list-style-type: lower-alpha;
+    list-style-type: symbols(୨ৎ);
 }
 .flex-container {
     display: flex;
