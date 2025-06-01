@@ -36,7 +36,7 @@ div > a:hover {
    color:#eebfd2;
 }
 ul {
-    list-style-type: symbols(୨ৎ);
+    list-style-image: url();
 }
 .flex-container {
     display: flex;
@@ -107,7 +107,7 @@ div {
 }
 
 .domain3 {
-    width: 100%;
+    justify-self: center;
     border-style: double;
     border-width: 5px;
     border-color: #ca3d65;
