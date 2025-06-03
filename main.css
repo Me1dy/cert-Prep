@@ -113,7 +113,19 @@ div {
     border-color: #ca3d65;
     color:  #ffd3f7;
 }
-
+.domain4 {
+    justify-self: center;
+    border-style: double;
+    border-width: 5px;
+    border-color: #ca3d65;
+    color:  #ffd3f7;
+}
+.domain444 {
+    width: 100px;
+}
+figure {
+    float: left;
+}
 footer {
     align-content: center;
     text-align: center;
