@@ -112,6 +112,8 @@ div {
     border-width: 5px;
     border-color: #ca3d65;
     color:  #ffd3f7;
+    padding: 2px;
+    margin: 2px;
 }
 .domain4 {
     justify-self: center;
@@ -119,6 +121,8 @@ div {
     border-width: 5px;
     border-color: #ca3d65;
     color:  #ffd3f7;
+    padding: 2px;
+    margin: 2px
 }
 
 .domain444 {
