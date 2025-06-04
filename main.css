@@ -120,6 +120,10 @@ div {
     border-color: #ca3d65;
     color:  #ffd3f7;
 }
+.domain4 > div {
+    display: flex;
+    flex-direction: row;
+}
 .domain444 {
     width: 400px;
 }
