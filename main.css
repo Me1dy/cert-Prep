@@ -132,6 +132,15 @@ div {
 figure {
     float: left;
 }
+.domain5 {
+    justify-self: center;
+    border-style: double;
+    border-width: 5px;
+    border-color: #ca3d65;
+    color:  #ffd3f7;
+    padding: 5px;
+    margin: 5px
+}
 footer {
     align-content: center;
     text-align: center;
